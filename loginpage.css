@@ -1,0 +1,25 @@
+* {
+
+    margin: 0px;
+    font-family: 'Segoe UI' ;
+}
+
+.stoneapp {
+
+    color: deepskyblue;
+    
+
+}
+
+.welcome {
+
+    font-size: large;
+    text-align: center;
+    color: #676a6c ;
+
+}
+
+.input {
+
+        margin-left: 100px ;
+}
